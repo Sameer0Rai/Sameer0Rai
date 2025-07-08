@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Sameer Rai</h1>
 <p>An AI/ML enthusiast with strong passion for problem solving. </p>
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="gif" height="350"  /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="gif" height="300"  /></p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -22,7 +22,7 @@
 <h2>⚡️ Where to find me</h2>
 
 <p><a target="_blank" href="https://www.linkedin.com/in/sameer--rai"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /><br></a><a target="_blank" href="https://leetcode.com/u/SameerRai/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode" /></a></p>
-<p align="right"><img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" height="20" /></p>
+<p align="right"><img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" height="200" /></p>
 
 
 
