@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Sameer0Rai/Sameer0Rai/main/assets/weave-banner.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=550&lines=Final+Year+CE+%40+Thapar+Institute+%F0%9F%8E%93;Backend+%2F+SDE+Job+Hunter+%F0%9F%92%BC;LeetCode+Knight+%E2%80%A2+500%2B+Problems+Solved+%E2%9A%94%EF%B8%8F;GSSoC+2026+Contributor+%F0%9F%8C%B1;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=550&lines=Final+Year+CE+%40+Thapar+Institute+%F0%9F%8E%93;LeetCode+Knight+%E2%80%A2+500%2B+Problems+Solved+%E2%9A%94%EF%B8%8F;GSSoC+2026+Contributor+%F0%9F%8C%B1;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,6 @@
 ### 🙋‍♂️ Sameer Rai
 📍 &nbsp;Patiala, Punjab, India
 🎓 &nbsp;B.E. Computer Engineering — Thapar Institute, **Final Year**
-🎯 &nbsp;Interviewing for **Backend / SDE** roles
 🌱 &nbsp;Contributing to **GirlScript Summer of Code 2026**
 🛰️ &nbsp;Building **TerraTime** — my final-year capstone project
 📬 &nbsp;sameer.0rai0@gmail.com
