@@ -131,4 +131,4 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Sameer0Rai/Sameer0Rai/main/assets/weave-banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sameer0Rai/Sameer0Rai/main/assets/weave-banner-footer.svg" width="100%"/>
