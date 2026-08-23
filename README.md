@@ -1,69 +1,93 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sameer+Rai+%F0%9F%91%8B;AI%2FML+Enthusiast+%F0%9F%A4%96;DSA+Problem+Solver+%F0%9F%92%A1;Computer+Engineering+%40+Thapar+%F0%9F%8E%93;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/Sameer0Rai/Sameer0Rai/main/assets/weave-banner.svg" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=550&lines=Final+Year+CE+%40+Thapar+Institute+%F0%9F%8E%93;Backend+%2F+SDE+Job+Hunter+%F0%9F%92%BC;LeetCode+Knight+%E2%80%A2+500%2B+Problems+Solved+%E2%9A%94%EF%B8%8F;GSSoC+2026+Contributor+%F0%9F%8C%B1;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
+<br>
+
+<table>
+<tr>
+<td width="150" valign="top">
+<img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" width="140" />
+</td>
+<td valign="top">
+
+### 🙋‍♂️ Sameer Rai
+📍 &nbsp;Patiala, Punjab, India
+🎓 &nbsp;B.E. Computer Engineering — Thapar Institute, **Final Year**
+🎯 &nbsp;Interviewing for **Backend / SDE** roles
+🌱 &nbsp;Contributing to **GirlScript Summer of Code 2026**
+🛰️ &nbsp;Building **TerraTime** — my final-year capstone project
+📬 &nbsp;sameer.0rai0@gmail.com
+
+</td>
+</tr>
+</table>
+
 ---
-
-## 🙋‍♂️ About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" height="200" />
-
-```yaml
-name: Sameer Rai
-location: Patiala, Punjab, India
-education:
-  institute: Thapar Institute of Engineering & Technology
-  degree: B.E. Computer Engineering
-  year: Pre-Final Year (3rd Year)
-focus:
-  - Data Structures & Algorithms (DSA)
-  - AI / Machine Learning
-  - Full Stack Development
-currently_learning: Machine Learning & Deep Learning
-open_to: Internships, Collaborations, Open Source
-contact: sameer.0rai0@gmail.com
-```
-
----
-
-## 🚀 Languages & Tools
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 🏆 Highlights
 
 </div>
 
+| | |
+|---|---|
+| ⚔️ **LeetCode Knight** | 1895 rating (top 4.8%) · 500+ problems solved · rank 1,254/38,791 in Weekly Contest 509 |
+| 📦 **PyPI Package** | [`Topsis-Sameer-102303773`](https://pypi.org/project/Topsis-Sameer-102303773/) — a TOPSIS multi-criteria decision analysis package |
+| 🌱 **Open Source** | Contributor @ GirlScript Summer of Code 2026 |
+| 💼 **Internship** | Project Intern @ RAIO Quantum Technologies — migrated a WhatsApp ordering bot from Meta Cloud API to Twilio Programmable Messaging |
+
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameer0Rai&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer0Rai&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+### 🚀 Tech Stack
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sameer0Rai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Frameworks</b></td>
+<td>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -85,7 +109,7 @@ contact: sameer.0rai0@gmail.com
 
 ## 📈 Activity Graph
 
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sameer0Rai&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sameer0Rai&theme=react-dark&hide_border=true&bg_color=0d1117&color=F72585&line=F72585&point=7209B7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -99,12 +123,12 @@ contact: sameer.0rai0@gmail.com
 
 </div>
 
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sameer0Rai&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sameer0Rai&color=F72585&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Sameer0Rai/Sameer0Rai/main/assets/weave-banner.svg" width="100%"/>
