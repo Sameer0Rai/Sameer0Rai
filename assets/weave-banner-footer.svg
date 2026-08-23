@@ -1,0 +1,45 @@
+<svg width="100%" viewBox="0 0 1600 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#120a1f"/>
+      <stop offset="55%" stop-color="#2b0a3d"/>
+      <stop offset="100%" stop-color="#3d0f4a"/>
+    </linearGradient>
+    <clipPath id="swooshFooter">
+      <path d="M0,260 H1600 V50 C1250,-10 950,110 650,70 C400,35 180,85 0,25 Z"/>
+    </clipPath>
+    <filter id="softFooter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="0.6"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#swooshFooter)">
+    <rect width="1600" height="260" fill="url(#bgGrad)"/>
+
+    <!-- woven threads, mirrored -->
+    <path d="M -50,70 C 250,200 480,0 760,130 S 1200,220 1650,110" fill="none" stroke="#7209B7" stroke-width="4" opacity="0.55" stroke-linecap="round" filter="url(#softFooter)">
+      <animate attributeName="stroke-dashoffset" from="0" to="-760" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dasharray" values="26 18" dur="9s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M -50,25 C 220,-70 520,190 800,50 S 1260,-60 1650,70" fill="none" stroke="#F72585" stroke-width="4.5" opacity="0.65" stroke-linecap="round" filter="url(#softFooter)">
+      <animate attributeName="stroke-dashoffset" from="0" to="820" dur="7.5s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dasharray" values="22 20" dur="7.5s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M -50,170 C 320,70 600,270 880,150 S 1320,30 1650,190" fill="none" stroke="#C77DFF" stroke-width="2.5" opacity="0.5" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" from="0" to="-680" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dasharray" values="18 22" dur="11s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M -50,-10 C 300,110 660,-70 940,65 S 1360,170 1650,25" fill="none" stroke="#4CC9F0" stroke-width="2" opacity="0.4" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" from="0" to="700" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dasharray" values="14 16" dur="13s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M -50,110 C 260,220 540,40 820,165 S 1280,250 1650,140" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.28" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" from="0" to="-600" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dasharray" values="10 26" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
